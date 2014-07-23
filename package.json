@@ -2,13 +2,15 @@
   "name": "carbon-copy",
   "main": "./lib/carbon-copy",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Carbon Copy is a package for atom to copy and paste multiple things simulataneously.",
   "activationEvents": ["carbon-copy:toggle"],
   "repository": "https://github.com/atom/carbon-copy",
   "license": "MIT",
+  "repository": "https://github.com/rishabhjain2795/carbon-copy",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "homepage":"https://github.com/rishabhjain2795/carbon-copy",
+  "bugs":"https://github.com/rishabhjain2795/carbon-copy/issues",
+  "readmeFilename": "README.md"
 }
