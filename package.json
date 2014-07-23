@@ -2,7 +2,7 @@
   "name": "carbon-copy",
   "main": "./lib/carbon-copy",
   "version": "0.0.1",
-  "description": "Carbon Copy is a package for atom to copy and paste multiple things simulataneously.",
+  "description": "A package for Atom Editor that lets you copy-paste a lot of stuff simultaneously.",
   "activationEvents": [
     "carbon-copy:toggle"
   ],
