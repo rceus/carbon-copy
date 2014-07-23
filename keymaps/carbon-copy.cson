@@ -10,4 +10,7 @@
 '.workspace':
   'ctrl-alt-o': 'carbon-copy:toggle'
 '.editor':
-  'ctrl-alt-a': 'carbon-copy:copy1'
+  'cmd-alt-1': 'carbon-copy:copy1'
+  'cmd-alt-2': 'carbon-copy:paste1'
+  'cmd-alt-3': 'carbon-copy:copy2'
+  'cmd-alt-4': 'carbon-copy:paste2'
