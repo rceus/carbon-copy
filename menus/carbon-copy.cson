@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable carbon-copy': 'carbon-copy:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'carbon-copy'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'carbon-copy:toggle' }
+      ]
+    ]
+  }
+]

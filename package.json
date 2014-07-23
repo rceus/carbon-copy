@@ -1,0 +1,14 @@
+{
+  "name": "carbon-copy",
+  "main": "./lib/carbon-copy",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationEvents": ["carbon-copy:toggle"],
+  "repository": "https://github.com/atom/carbon-copy",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
