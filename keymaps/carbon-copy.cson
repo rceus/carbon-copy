@@ -8,9 +8,11 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/advanced/keymaps
 '.workspace':
-  'ctrl-alt-o': 'carbon-copy:toggle'
+  'ctrl-alt-c': 'carbon-copy:toggle'
 '.editor':
   'cmd-alt-1': 'carbon-copy:copy1'
   'cmd-alt-2': 'carbon-copy:paste1'
   'cmd-alt-3': 'carbon-copy:copy2'
   'cmd-alt-4': 'carbon-copy:paste2'
+  'cmd-alt-5': 'carbon-copy:copy3'
+  'cmd-alt-6': 'carbon-copy:paste3'
